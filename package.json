@@ -1,6 +1,6 @@
 {
   "name": "ios-resolutions",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Takes an iOS ProductType and outputs a name and display resolution",
   "main": "dist/index.js",
   "files": [
